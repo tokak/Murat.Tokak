@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben Murat Tokak
 
-Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Aynı zamanda Bilgisayar Programcılığı önlisans mezunuyum ve DGS ile mühendislik eğitimime devam ettim. Yazılım geliştirme alanında kendimi  geliştirmeye çalışıyor, çeşitli projelerle deneyim kazanmaya devam ediyorum.
+Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Aynı zamanda Bilgisayar Programcılığı önlisans mezunuyum ve DGS ile mühendislik eğitimime devam ettim. Yazılım geliştirme alanında kendimi sürekli geliştirmeye çalışıyor, çeşitli projelerle deneyim kazanmaya devam ediyorum.
 
 ## 💼 Hakkımda Kısaca
 
@@ -15,8 +15,8 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sın�
 - **Backend:** ASP.NET Core, C#
 - **Frontend:** HTML, CSS, JavaScript, jQuery
 - **Veritabanı:** Microsoft SQL Server
-- **Araçlar & Kütüphaneler:** Entity Framework, Rotativa (PDF Raporlama)
-- **Proje Deneyimi:** Randevu Takvimi, Malzeme Takip Sistemi, Staj Soru-Cevap Uygulaması (AI destekli)
+- **Araçlar & Kütüphaneler:** Entity Framework
+- **Proje Deneyimi:** Randevu Takvimi, Malzeme Takip Sistemi
 
 ## 📌 Projelerimden Bazıları
 
@@ -36,7 +36,7 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sın�
 - **Backend:** ASP.NET Core, C#
 - **Veritabanı:** Microsoft SQL Server, Entity Framework Core
 - **Frontend:** HTML, CSS, Bootstrap, jQuery
-
+---
 
 ### 📁 **Tez Yükleme ve Randevu Takip Sistemi**
 
@@ -54,6 +54,4 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sın�
 - **Veritabanı:** Microsoft SQL Server, Entity Framework Core
 - **Frontend:** HTML, CSS, jQuery, Bootstrap
 - **PDF Raporlama:** Rotativa (PDF çıktıları almak için)
-
-
 ---
