@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben Murat Tokak
 
-Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Aynı zamanda Bilgisayar Programcılığı önlisans mezunuyum ve DGS ile mühendislik eğitimime devam ettim. Yazılım geliştirme alanında kendimi sürekli geliştirmeye çalışıyor, çeşitli projelerle deneyim kazanmaya devam ediyorum.
+Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Aynı zamanda Bilgisayar Programcılığı önlisans mezunuyum ve DGS ile mühendislik eğitimime devam ettim. Yazılım geliştirme alanında kendimi  geliştirmeye çalışıyor, çeşitli projelerle deneyim kazanmaya devam ediyorum.
 
 ## 💼 Hakkımda Kısaca
 
