@@ -54,4 +54,7 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sın�
 - **Veritabanı:** Microsoft SQL Server, Entity Framework Core
 - **Frontend:** HTML, CSS, jQuery, Bootstrap
 - **PDF Raporlama:** Rotativa (PDF çıktıları almak için)
----
+**Proje Linki**
+- https://e-tez.ebyu.edu.tr/
+**Öğrenciler tarafından oluşturulan randevu takvimi**
+- https://e-tez.ebyu.edu.tr/AppointmentsShow/ApprovedCalendar
