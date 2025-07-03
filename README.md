@@ -1,16 +1,16 @@
 # 👋 Merhaba! Ben Murat Tokak
+Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği mezunuyum. Öncesinde Van Yüzüncü Yıl Üniversitesi'nde Bilgisayar Programcılığı ön lisans eğitimimi tamamladım ve Dikey Geçiş Sınavı (DGS) ile mühendislik lisans eğitimime geçiş yaptım.
 
-Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Aynı zamanda Bilgisayar Programcılığı önlisans mezunuyum ve DGS ile mühendislik eğitimime devam ettim. Yazılım geliştirme alanında kendimi  geliştirmeye çalışıyor, çeşitli projelerle deneyim kazanmaya devam ediyorum.
+Yazılıma olan ilgim sayesinde, sadece eğitim sürecimle sınırlı kalmadan bireysel olarak da çeşitli projeler geliştirdim. Özellikle web tabanlı uygulamalara odaklanarak, gerçek ihtiyaçlara çözüm sunan, kullanışlı ve sürdürülebilir sistemler oluşturmayı hedefledim. Geliştirdiğim her projeyle hem teknik becerilerimi geliştirdim hem de problem çözme yeteneğimi pekiştirdim.
 
-## 💼 Hakkımda Kısaca
+# 💼 İş ve Staj Deneyimlerim
+**Stajyer – QLTEQ TEKNOLOJİ YAZILIM DANIŞMANLIĞI A.Ş.   07/2021 - 09/2021**
+Mevcut projelerde frontend ve backend tarafında hataların düzeltilmesi ve geliştirme çalışmaları gerçekleştirdim. Git versiyon kontrol sistemi (Bitbucket) üzerinde çalıştım.
 
-- 🎓 Bilgisayar Mühendisliği (Lisans) & Bilgisayar Programcılığı (Önlisans)
-- 💻 Part-time yazılım geliştiricisi (Erzincan Binali Yıldırım Üniversitesi)
-- 🔧 ASP.NET Core, C#, MSSQL, HTML, CSS, JavaScript ve jQuery konularında orta seviyede bilgi sahibiyim.
-- 📚 Kendimi geliştirirken online kurslar ve bireysel projelerden yararlanıyorum.
-- 🤝 Ekip çalışmasına yatkınım, iletişime ve sürekli öğrenmeye önem veririm.
+**Stajyer – Erzincan Binali Yıldırım Ünv. Bilgi İşlem  07/2024 – 08/2024**
 
-## 🚀 Kullandığım Teknolojiler
+**Kısmi Zamanlı Yazılım Geliştirici -  Erzincan Binali Yıldırım Ünv. Fen Bilimleri Enstitüsü  10/2024 – 06/2025**
+##  Kullandığım Teknolojiler
 
 - **Backend:** ASP.NET Core, C#
 - **Frontend:** HTML, CSS, JavaScript, jQuery
@@ -18,9 +18,9 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sın�
 - **Araçlar & Kütüphaneler:** Entity Framework
 - **Proje Deneyimi:** Randevu Takvimi, Malzeme Takip Sistemi
 
-## 📌 Projelerimden Bazıları
+## 📌 Canlıdaki Projelerim
 
-### 🧪 **Malzeme Takip Uygulaması**
+###  **Malzeme Takip Uygulaması**
 
 **Açıklama:**  
 Üniversite laboratuvarında kullanılan cihazların durumunu izlemek ve cihazlar için rezervasyon işlemlerini yönetmek amacıyla geliştirilmiş bir web uygulamasıdır. Bu uygulama, kullanıcıların cihazların kullanım durumlarını görüntülemelerini, cihazlar için rezervasyon yapmalarını ve bakım/arıza kayıtlarını tutmalarını sağlar.
@@ -36,9 +36,12 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sın�
 - **Backend:** ASP.NET Core, C#
 - **Veritabanı:** Microsoft SQL Server, Entity Framework Core
 - **Frontend:** HTML, CSS, Bootstrap, jQuery
----
 
-### 📁 **Tez Yükleme ve Randevu Takip Sistemi**
+**Proje Linki**
+- https://eutas.ebyu.edu.tr/
+ ---
+
+###  **Tez Yükleme ve Randevu Takip Sistemi**
 
 **Açıklama:**  
 Üniversite öğrencilerinin bitirme tezlerini sisteme yükleyebileceği ve danışmanlarıyla randevu planlayabileceği, ASP.NET Core ile geliştirilmiş çok kullanıcılı bir web uygulamasıdır. Bu proje, öğrenci ve danışman arasındaki iletişimi dijitalleştirir ve süreçlerin daha şeffaf ve verimli hale gelmesini sağlar.
@@ -60,3 +63,8 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği 4. sın�
   
 **Öğrenciler tarafından oluşturulan randevu takvimi**
 - https://e-tez.ebyu.edu.tr/AppointmentsShow/ApprovedCalendar
+
+###  **Enstitü Yönetim Sistemi**
+
+**Proje Linki**
+- https://eys.ebyu.edu.tr/
