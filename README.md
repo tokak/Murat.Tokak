@@ -1,5 +1,5 @@
 # 👋 Merhaba! Ben Murat Tokak
-Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği mezunuyum. Öncesinde Van Yüzüncü Yıl Üniversitesi'nde Bilgisayar Programcılığı ön lisans eğitimimi tamamladım ve Dikey Geçiş Sınavı (DGS) ile mühendislik lisans eğitimime geçiş yaptım.
+Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği mezunuyum. Öncesinde Van Yüzüncü Yıl Üniversitesi'nde Bilgisayar Programcılığı ön lisans eğitimimi tamamladım ve Dikey Geçiş Sınavı (DGS) ile mühendislik lisans eğitimime geçiş yaptım.
 
 Yazılıma olan ilgim sayesinde, sadece eğitim sürecimle sınırlı kalmadan bireysel olarak da çeşitli projeler geliştirdim. Özellikle web tabanlı uygulamalara odaklanarak, gerçek ihtiyaçlara çözüm sunan, kullanışlı ve sürdürülebilir sistemler oluşturmayı hedefledim. Geliştirdiğim her projeyle hem teknik becerilerimi geliştirdim hem de problem çözme yeteneğimi pekiştirdim.
 
