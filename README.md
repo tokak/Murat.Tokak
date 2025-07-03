@@ -3,13 +3,7 @@ Ben Erzincan Binali Yıldırım Üniversitesi Bilgisayar Mühendisliği mezunuyu
 
 Yazılıma olan ilgim sayesinde, sadece eğitim sürecimle sınırlı kalmadan bireysel olarak da çeşitli projeler geliştirdim. Özellikle web tabanlı uygulamalara odaklanarak, gerçek ihtiyaçlara çözüm sunan, kullanışlı ve sürdürülebilir sistemler oluşturmayı hedefledim. Geliştirdiğim her projeyle hem teknik becerilerimi geliştirdim hem de problem çözme yeteneğimi pekiştirdim.
 
-# 💼 İş ve Staj Deneyimlerim
-**Stajyer – QLTEQ TEKNOLOJİ YAZILIM DANIŞMANLIĞI A.Ş.   07/2021 - 09/2021**
-Mevcut projelerde frontend ve backend tarafında hataların düzeltilmesi ve geliştirme çalışmaları gerçekleştirdim. Git versiyon kontrol sistemi (Bitbucket) üzerinde çalıştım.
 
-**Stajyer – Erzincan Binali Yıldırım Ünv. Bilgi İşlem  07/2024 – 08/2024**
-
-**Kısmi Zamanlı Yazılım Geliştirici -  Erzincan Binali Yıldırım Ünv. Fen Bilimleri Enstitüsü  10/2024 – 06/2025**
 ##  Kullandığım Teknolojiler
 
 - **Backend:** ASP.NET Core, C#
@@ -68,3 +62,11 @@ Mevcut projelerde frontend ve backend tarafında hataların düzeltilmesi ve gel
 
 **Proje Linki**
 - https://eys.ebyu.edu.tr/
+
+- ## 💼 İş ve Staj Deneyimlerim
+**Stajyer – QLTEQ TEKNOLOJİ YAZILIM DANIŞMANLIĞI A.Ş.   07/2021 - 09/2021**
+Mevcut projelerde frontend ve backend tarafında hataların düzeltilmesi ve geliştirme çalışmaları gerçekleştirdim. Git versiyon kontrol sistemi (Bitbucket) üzerinde çalıştım.
+
+**Stajyer – Erzincan Binali Yıldırım Ünv. Bilgi İşlem  07/2024 – 08/2024**
+
+**Kısmi Zamanlı Yazılım Geliştirici -  Erzincan Binali Yıldırım Ünv. Fen Bilimleri Enstitüsü  10/2024 – 06/2025**
