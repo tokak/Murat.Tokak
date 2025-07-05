@@ -63,7 +63,7 @@ Yazılıma olan ilgim sayesinde, sadece eğitim sürecimle sınırlı kalmadan b
 **Proje Linki**
 - https://eys.ebyu.edu.tr/
 
-- ## 💼 İş ve Staj Deneyimlerim
+## 💼 İş ve Staj Deneyimlerim
 **Stajyer – QLTEQ TEKNOLOJİ YAZILIM DANIŞMANLIĞI A.Ş.   07/2021 - 09/2021**
 Mevcut projelerde frontend ve backend tarafında hataların düzeltilmesi ve geliştirme çalışmaları gerçekleştirdim. Git versiyon kontrol sistemi (Bitbucket) üzerinde çalıştım.
 
